@@ -1,7 +1,7 @@
 # Spring-Security-ACL-Bug
 This project demonstrates a Bug in Spring-Security-ACL
 
-Error 1:
+**Error 1:**
 
 Reproduce [this bug](http://stackoverflow.com/questions/31701823/unable-to-find-acl-information-for-object-identity-org-springframework-security) 
 
@@ -21,7 +21,7 @@ Note: The only this I changed in the ACL domains is in AclObjectIdentity objectI
 
 This should reproduce the error. 
 
-Error 2: 
+**Error 2:** 
 
 After ``grails s2-create-acl-domains`` Eclipse shows the following errors. 
 
