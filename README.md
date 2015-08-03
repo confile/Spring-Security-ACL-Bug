@@ -28,5 +28,6 @@ After ``grails s2-create-acl-domains`` Eclipse shows the following errors.
 
 ![grails_-_test2_grails-app_controllers_test2_homecontroller_groovy_-_groovy_grails_tool_suite_-__users_mg_documents_grails_ggts3_6_3](https://cloud.githubusercontent.com/assets/64265/9038944/5ec2beca-39f8-11e5-9385-0dd2ffb19575.png)
 
+![grails_-_test2_grails-app_controllers_test2_homecontroller_groovy_-_groovy_grails_tool_suite_-__users_mg_documents_grails_ggts3_6_3](https://cloud.githubusercontent.com/assets/64265/9038972/88e93058-39f8-11e5-8acf-e9ae4b0267d3.png)
 
 
