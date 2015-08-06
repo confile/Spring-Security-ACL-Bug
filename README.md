@@ -12,7 +12,7 @@ Note: The only this I changed in the ACL domains is in AclObjectIdentity objectI
 - go to http://localhost:8080/test2/ login with user: admin PW: admin
 - go to http://localhost:8080/test2/home/list
 - go to http://localhost:8080/test2/home/createCompany1
-- go to http://localhost:8080/test2/home/createCompany1
+- go to http://localhost:8080/test2/home/addPerm
 - stop server
 - grails clean
 - grails run-app
