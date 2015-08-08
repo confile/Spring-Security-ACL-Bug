@@ -3,7 +3,7 @@ This project demonstrates a Bug in Spring-Security-ACL
 
 == Stepw to reproduce: 
 
-- createa mysql database name: test
+- create a mysql database name: test
 - grails dbm-update
 - grails run-app
 - http://localhost:8080/test2/home/list
