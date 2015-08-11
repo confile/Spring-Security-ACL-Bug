@@ -66,3 +66,6 @@ Message: java.lang.String cannot be cast to java.lang.Long
 ^    745 | run                    in java.lang.Thread
 
 ```
+
+
+**Edit:** I found that when I shut down my mysql server and restart it then the error is gone. It might belong to some caching issues here.
